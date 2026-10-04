@@ -1,4 +1,4 @@
-# Wall Gallery — development rules
+# Полотно (Polotno) — development rules
 
 Read PLAN.md before implementation. This is a standalone software project, not part of the Aleph vault.
 
