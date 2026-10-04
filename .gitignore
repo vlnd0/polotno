@@ -24,3 +24,12 @@ coverage/
 /runtime/
 /uploads/
 /device-diagnostics/
+/.tools/
+*.hprof
+*.log
+playwright-report/
+test-results/
+browser-sessions.json
+browser-sessions.part
+pairing-secret
+pairing-secret.part

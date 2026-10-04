@@ -1,0 +1,242 @@
+[
+  {
+    "id": 1,
+    "title": "Текучий шёлк",
+    "description": "Мягкие волны",
+    "category": "Спокойные",
+    "kind": "video",
+    "file": "silk-43320f10a2c3.mp4",
+    "poster": "silk-b4f669883aea.jpg",
+    "duration_seconds": 8
+  },
+  {
+    "id": 101,
+    "title": "Текучий шёлк · картина",
+    "description": "Современная абстракция",
+    "category": "Спокойные",
+    "kind": "image",
+    "file": "silk-b4f669883aea.jpg",
+    "poster": "silk-b4f669883aea.jpg",
+    "duration_seconds": 0
+  },
+  {
+    "id": 2,
+    "title": "Северное сияние",
+    "description": "Световые ленты",
+    "category": "Спокойные",
+    "kind": "video",
+    "file": "aurora-9a01b8779291.mp4",
+    "poster": "aurora-f06ef43858c1.jpg",
+    "duration_seconds": 8
+  },
+  {
+    "id": 102,
+    "title": "Северное сияние · картина",
+    "description": "Современная абстракция",
+    "category": "Спокойные",
+    "kind": "image",
+    "file": "aurora-f06ef43858c1.jpg",
+    "poster": "aurora-f06ef43858c1.jpg",
+    "duration_seconds": 0
+  },
+  {
+    "id": 3,
+    "title": "Жидкая лава",
+    "description": "Тёплое свечение",
+    "category": "Абстракция",
+    "kind": "video",
+    "file": "lava-f31cc59fc6de.mp4",
+    "poster": "lava-2573de8e1eb9.jpg",
+    "duration_seconds": 8
+  },
+  {
+    "id": 103,
+    "title": "Жидкая лава · картина",
+    "description": "Современная абстракция",
+    "category": "Абстракция",
+    "kind": "image",
+    "file": "lava-2573de8e1eb9.jpg",
+    "poster": "lava-2573de8e1eb9.jpg",
+    "duration_seconds": 0
+  },
+  {
+    "id": 4,
+    "title": "Жидкий хром",
+    "description": "Серебряные складки",
+    "category": "Абстракция",
+    "kind": "video",
+    "file": "chrome-6263d5a9aa82.mp4",
+    "poster": "chrome-a04767c9fab3.jpg",
+    "duration_seconds": 8
+  },
+  {
+    "id": 104,
+    "title": "Жидкий хром · картина",
+    "description": "Современная абстракция",
+    "category": "Абстракция",
+    "kind": "image",
+    "file": "chrome-a04767c9fab3.jpg",
+    "poster": "chrome-a04767c9fab3.jpg",
+    "duration_seconds": 0
+  },
+  {
+    "id": 5,
+    "title": "Океан света",
+    "description": "Тонкие световые волны",
+    "category": "Спокойные",
+    "kind": "video",
+    "file": "waves-3234029ce2a3.mp4",
+    "poster": "waves-91870f228e62.jpg",
+    "duration_seconds": 8
+  },
+  {
+    "id": 105,
+    "title": "Океан света · картина",
+    "description": "Современная абстракция",
+    "category": "Спокойные",
+    "kind": "image",
+    "file": "waves-91870f228e62.jpg",
+    "poster": "waves-91870f228e62.jpg",
+    "duration_seconds": 0
+  },
+  {
+    "id": 6,
+    "title": "Неоновое кольцо",
+    "description": "Плавное дыхание света",
+    "category": "Киберпанк",
+    "kind": "video",
+    "file": "halo-76f88f42b5ef.mp4",
+    "poster": "halo-f4bf97cf49c8.jpg",
+    "duration_seconds": 8
+  },
+  {
+    "id": 106,
+    "title": "Неоновое кольцо · картина",
+    "description": "Современная абстракция",
+    "category": "Киберпанк",
+    "kind": "image",
+    "file": "halo-f4bf97cf49c8.jpg",
+    "poster": "halo-f4bf97cf49c8.jpg",
+    "duration_seconds": 0
+  },
+  {
+    "id": 7,
+    "title": "Кибергород",
+    "description": "Неоновый силуэт под дождём",
+    "category": "Киберпанк",
+    "kind": "video",
+    "file": "city-58d2bb84396a.mp4",
+    "poster": "city-cc39e664d36b.jpg",
+    "duration_seconds": 8
+  },
+  {
+    "id": 107,
+    "title": "Кибергород · картина",
+    "description": "Современная абстракция",
+    "category": "Киберпанк",
+    "kind": "image",
+    "file": "city-cc39e664d36b.jpg",
+    "poster": "city-cc39e664d36b.jpg",
+    "duration_seconds": 0
+  },
+  {
+    "id": 8,
+    "title": "Цифровой горизонт",
+    "description": "Сетка в бесконечность",
+    "category": "Киберпанк",
+    "kind": "video",
+    "file": "grid-fb66957417c6.mp4",
+    "poster": "grid-bea4c30213a6.jpg",
+    "duration_seconds": 8
+  },
+  {
+    "id": 108,
+    "title": "Цифровой горизонт · картина",
+    "description": "Современная абстракция",
+    "category": "Киберпанк",
+    "kind": "image",
+    "file": "grid-bea4c30213a6.jpg",
+    "poster": "grid-bea4c30213a6.jpg",
+    "duration_seconds": 0
+  },
+  {
+    "id": 9,
+    "title": "Неоновый дождь",
+    "description": "Голубые и розовые следы",
+    "category": "Киберпанк",
+    "kind": "video",
+    "file": "rain-12552d7ad922.mp4",
+    "poster": "rain-d92cc5fc2ca1.jpg",
+    "duration_seconds": 8
+  },
+  {
+    "id": 109,
+    "title": "Неоновый дождь · картина",
+    "description": "Современная абстракция",
+    "category": "Киберпанк",
+    "kind": "image",
+    "file": "rain-d92cc5fc2ca1.jpg",
+    "poster": "rain-d92cc5fc2ca1.jpg",
+    "duration_seconds": 0
+  },
+  {
+    "id": 10,
+    "title": "Ночной сканер",
+    "description": "Свет скользит в темноте",
+    "category": "Киберпанк",
+    "kind": "video",
+    "file": "scanner-f612014f10dd.mp4",
+    "poster": "scanner-c631fbcd352d.jpg",
+    "duration_seconds": 8
+  },
+  {
+    "id": 110,
+    "title": "Ночной сканер · картина",
+    "description": "Современная абстракция",
+    "category": "Киберпанк",
+    "kind": "image",
+    "file": "scanner-c631fbcd352d.jpg",
+    "poster": "scanner-c631fbcd352d.jpg",
+    "duration_seconds": 0
+  },
+  {
+    "id": 11,
+    "title": "Голограмма",
+    "description": "Переливающиеся ткани",
+    "category": "Киберпанк",
+    "kind": "video",
+    "file": "hologram-10ee96973650.mp4",
+    "poster": "hologram-6405bcdeb3a3.jpg",
+    "duration_seconds": 8
+  },
+  {
+    "id": 111,
+    "title": "Голограмма · картина",
+    "description": "Современная абстракция",
+    "category": "Киберпанк",
+    "kind": "image",
+    "file": "hologram-6405bcdeb3a3.jpg",
+    "poster": "hologram-6405bcdeb3a3.jpg",
+    "duration_seconds": 0
+  },
+  {
+    "id": 12,
+    "title": "Пыльный закат",
+    "description": "Терракота и вечерний свет",
+    "category": "Спокойные",
+    "kind": "video",
+    "file": "dusk-712abb0bcebe.mp4",
+    "poster": "dusk-a8315e73a7b2.jpg",
+    "duration_seconds": 8
+  },
+  {
+    "id": 112,
+    "title": "Пыльный закат · картина",
+    "description": "Современная абстракция",
+    "category": "Спокойные",
+    "kind": "image",
+    "file": "dusk-a8315e73a7b2.jpg",
+    "poster": "dusk-a8315e73a7b2.jpg",
+    "duration_seconds": 0
+  }
+]

@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Полотно</string>
+    <string name="pairing_title">Полотно\nПодключите телефон по QR-коду</string>
+    <string name="pairing_help">%1$s\nОдна сеть Wi-Fi · Menu скрывает QR\nСтрелки: сцены · OK: пауза · Back: выход</string>
+    <string name="network_missing">Подключите проектор к домашней сети</string>
+    <string name="pairing_code">Код для компьютера: %1$s</string>
+</resources>

@@ -5,7 +5,7 @@ Read PLAN.md before implementation. This is a standalone software project, not p
 ## Product contracts
 
 - Surface count is dynamic. Never hard-code three regions or replace that with another arbitrary image-count cap.
-- Video decoder limits are separate: at most two video-bearing surface playlists per scene in v1.
+- Video-bearing playlists have no artificial count cap. Share active video files across surfaces and release unused decoders; physical playback capacity depends on the device.
 - The projector renders and stores media locally. A phone or computer is a browser controller, not a required streaming source.
 - Kotlin handles Android lifecycle, remote input, DreamService and Media3. Rust is embedded in the APK; the web editor uses TypeScript and React.
 - Keep the user interface in Russian. QR pairing is the primary setup path.
